@@ -1,6 +1,6 @@
 public class MathUtils {
     /**
-     * divideNumbers -- a / b
+     * divideNumbers -- a / bi
      * Divide a by b and return the result
      */
     public static double divideNumbers(int dividend, int divisor) {
